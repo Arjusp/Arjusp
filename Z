@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>asps</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        header {
+            background-color: #244ed6;
+            color: rgb(225, 233, 211);
+            padding: 10px;
+            text-align: center;
+        }
+
+        nav {
+            background-color: #f2f2f2;
+            padding: 20px;
+        }
+
+        section {
+            padding: 20px;
+        }
+
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>ARJUN S P</h1>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="https://sreeshylam2806.wixsite.com/my-site-3"><h2>Home</h2></a></li>
+        </ul>
+    </nav>
+
+    <section>
+        <h2>Welcome to my website</h2>
+        <p>To get more details about me - click Home button</
+
+    <section>
+       
+    <footer>
+        <h3>"Quality leads to innovations."</h4>
+    </footer>
+
+</body>
+
+</html>
